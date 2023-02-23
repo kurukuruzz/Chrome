@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wow
+=======
+gmagmaㄹㄹㄻㅇㄹ
+>>>>>>> c123ff0488e6b3fec0334cecd0b424c62d5714a8
